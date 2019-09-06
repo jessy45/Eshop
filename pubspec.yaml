@@ -48,6 +48,7 @@ flutter:
   assets:
     - images/image7.jpg
     - images/image9.jpg
+    - images/image4.jpg
     - images/image1.jpg
     - images/image3.jpg
     - images/image17.jpg
